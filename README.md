@@ -1,8 +1,8 @@
 
 <hr style='width:80%;text-align:center;height:4px;border-radius:4px;background-color:rgb(255, 0, 119);'>
 <p>Hello friends ✋. I'm a high school sophomore who recently gained a passion for coding! In particular, I'm working on games 🎮 and creating websites 💻 :D</p>
-<p>Love to learn! I'm completely self-taught in <span style='background-color:lawngreen;'>JavaScript</span>, HTML & CSS. Currently learning Python 😁</p>
-<
+<p>Love to learn! I'm completely self-taught in <b>JavaScript, HTML & CSS</b>. Currently learning Python 😁</p>
+
 
 
 
