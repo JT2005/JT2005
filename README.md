@@ -1,4 +1,3 @@
-
 <hr style='width:80%;text-align:center;height:4px;border-radius:10px;background-color:rgb(255, 0, 119);'>
 <p>Hello friends ✋. I'm a high school sophomore who recently gained a passion for coding! In particular, I'm working on <i>games</i> 🎮 and creating <i>websites</i> 💻 :D</p>
 <p>Love to <b>learn</b> & open to <b>anything</b> 😁! I'm completely self-taught in <b>JavaScript</b>, <b>HTML</b> & <b>CSS</b>. Currently learning <b>Python</b> :p</p>
