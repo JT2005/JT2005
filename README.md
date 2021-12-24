@@ -4,8 +4,8 @@
 <p>Love to <b>learn</b> & open to <b>anything</b> 😁! I'm completely self-taught in <b>JavaScript, HTML & CSS</b>. Currently learning Python :p</p>
 <h4>Have many grand ambitions:</h4>
 <ul>
-  <li>get involved in many hacking events 😅</li>
-  <li>become a software developer 😅</li>
+  <li>get involved in many hacking events 😙</li>
+  <li>become a software developer 😙</li>
   <li>word domination 🙂</li>
 </ul>
 <sub>(although participating in events may prove to be the most challenging for me as I can get very nervous hehe 😅)</sub>
