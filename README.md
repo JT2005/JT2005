@@ -6,7 +6,7 @@
 <ul>
   <li>get involved in many hacking events 😙</li>
   <li>become a software developer 😙</li>
-  <li>word domination 🙂</li>
+  <li>world domination 😙</li>
 </ul>
 <sub>(although participating in events may prove to be the most challenging for someone as shy as me hehehe 😅)</sub>
 <hr style='width:80%;text-align:center;height:4px;border-radius:10px;background-color:rgb(255, 0, 119);'>
